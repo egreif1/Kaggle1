@@ -1,0 +1,6 @@
+Ideas for models to fit on data.
+
+1. Naive Bayes.
+2. Non-Naive Bayes.
+3. High dimensional linear classifier.
+4. High dimensional Poisson classifier.
