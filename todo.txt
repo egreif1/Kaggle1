@@ -1,6 +1,3 @@
 This is a list of things to do for the project.
 
-
-1. Build corpus of non-trivial words.
-2. Build SQL database for data.
-3. Build naive Bayes model.
+1. Run script that gets classification data for each token.
